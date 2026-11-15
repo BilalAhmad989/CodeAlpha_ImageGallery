@@ -9,6 +9,9 @@ Responsive image gallery built with HTML, CSS and vanilla JavaScript for the Cod
 - Hover zoom, overlay captions and smooth transitions
 - **Bonus:** category filters (All, Nature, Travel, Architecture, Animals)
 
+## Images
+All pictures are included in the `images/` folder (illustrated SVGs), so the gallery works offline and on GitHub Pages.
+
 ## Run locally
 Open `index.html` in any browser. No build step needed.
 
